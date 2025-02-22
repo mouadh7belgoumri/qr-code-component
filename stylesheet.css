@@ -4,17 +4,27 @@ body {
     font-family: outfit, sans-serif;
 }
 img {
-    width: 30%;
-    height: auto;
-    border-radius: 5%;
+    padding: 15px;
+    width: 70%;
+    border-radius: 10%;
 }
 article {
-    
+    border-radius: 10%;
     background-color: hsl(0, 0%, 100%);
-    margin: 0 auto;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    height: auto;
+    padding-bottom: 0px;
     width: 30%;
     text-align: center;
+    border;
 }
 .bold {
     font-weight: bold;
+}
+p {
+    font-size: 20px;
+    
+    margin-bottom: 0%;
 }
