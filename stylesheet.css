@@ -1,0 +1,20 @@
+body {
+    
+    background-color: hsl(212,45% ,89% );
+    font-family: outfit, sans-serif;
+}
+img {
+    width: 30%;
+    height: auto;
+    border-radius: 5%;
+}
+article {
+    
+    background-color: hsl(0, 0%, 100%);
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+}
+.bold {
+    font-weight: bold;
+}
