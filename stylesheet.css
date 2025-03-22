@@ -1,0 +1,44 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.parent {
+  text-align: center;
+  font-family: outfit, sans-serif;
+  font-size: 15px;
+  width: 80%;
+  padding-bottom: 22px;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+p {
+  font-weight: 400;
+  color: hsl(216, 15%, 48%);
+}
+
+.QR-code {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  width: 340px;
+  border-radius: 21px;
+}
+
+img {
+  padding: 15px;
+  width: 300px;
+  height: 300px;
+  border-radius: 26px;
+}/*# sourceMappingURL=stylesheet.css.map */
